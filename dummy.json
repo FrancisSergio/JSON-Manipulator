@@ -1,0 +1,13 @@
+ { "perosns": [ {
+    "username":"xyz",
+    "password":"xyz@123",
+    "email":"xyz@xyz.com",
+    "uid": 1100
+  },
+
+  {
+    "username":"dhjgksdg",
+    "password":"xyz@1sdgsd",
+    "email":"xyz@xyz.cosdgsdg",
+    "uid": 1100
+  } ] }
